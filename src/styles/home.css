@@ -103,3 +103,13 @@ input{
     grid-area: d;
     background-image: url("https://artfiles.alphacoders.com/565/56528.jpg");
 }
+
+.about-title {
+    margin-left: 2vw;   
+}
+
+.title {
+    font-size: x-large;
+    -webkit-text-stroke: 0.5px black; /* width and color */
+    font-family: sans; color: white;
+}
